@@ -1,5 +1,5 @@
 # vex_robot
-A small robot we built during Robotics labs. T
+A small robot we built during Robotics labs.
 The whole work took about 7-8 hours. The robot is not that good: the controls are not very precise. Fixable if needed.
 
 The most important part of this project is, I believe, the code that allows to control Vex motors with Arduino, which are not initially usable together.
